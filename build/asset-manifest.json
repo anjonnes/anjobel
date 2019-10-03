@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "anjonnes.github.io/anjobel/static/css/main.d8cf9644.chunk.css",
+    "main.js": "anjonnes.github.io/anjobel/static/js/main.86df5f20.chunk.js",
+    "main.js.map": "anjonnes.github.io/anjobel/static/js/main.86df5f20.chunk.js.map",
+    "runtime-main.js": "anjonnes.github.io/anjobel/static/js/runtime-main.4ef4f271.js",
+    "runtime-main.js.map": "anjonnes.github.io/anjobel/static/js/runtime-main.4ef4f271.js.map",
+    "static/js/2.f1383dde.chunk.js": "anjonnes.github.io/anjobel/static/js/2.f1383dde.chunk.js",
+    "static/js/2.f1383dde.chunk.js.map": "anjonnes.github.io/anjobel/static/js/2.f1383dde.chunk.js.map",
+    "index.html": "anjonnes.github.io/anjobel/index.html",
+    "precache-manifest.fa4467d6256f7597822f95c78979492b.js": "anjonnes.github.io/anjobel/precache-manifest.fa4467d6256f7597822f95c78979492b.js",
+    "service-worker.js": "anjonnes.github.io/anjobel/service-worker.js",
+    "static/css/main.d8cf9644.chunk.css.map": "anjonnes.github.io/anjobel/static/css/main.d8cf9644.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ef4f271.js",
+    "static/js/2.f1383dde.chunk.js",
+    "static/css/main.d8cf9644.chunk.css",
+    "static/js/main.86df5f20.chunk.js"
+  ]
+}
